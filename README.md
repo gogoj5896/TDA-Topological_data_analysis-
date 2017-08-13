@@ -25,7 +25,7 @@ http://www.nature.com/articles/srep01236
 <br />
 <br />
 
-# * library 적용 순서
+# * library 적용 순서()
 
 ## 1. Initialize
 mapper = km.KeplerMapper(verbose=1)

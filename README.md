@@ -41,6 +41,8 @@ topological_network = mapper.map(projected_X, inverse_X=None,
 ## 4 .Visualizing
 mapper.visualize(topological_network, path_html="mapper_visualization_output.html")
 
+<br />
+<br />
 
 # Example(nba_clustering)
 ![image](https://github.com/gogoj5896/TDA-Topological_data_analysis-/blob/master/image%26html/aa.png)

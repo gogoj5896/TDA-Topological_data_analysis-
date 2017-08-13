@@ -25,8 +25,8 @@ http://www.nature.com/articles/srep01236
 <br />
 <br />
 
-# * library 적용 순서(https://github.com/MLWave/kepler-mapper)
-
+# * library 적용 순서
+- (https://github.com/MLWave/kepler-mapper)
 ## 1. Initialize
 mapper = km.KeplerMapper(verbose=1)
 
@@ -40,3 +40,7 @@ topological_network = mapper.map(projected_X, inverse_X=None,
                                  
 ## 4 .Visualizing
 mapper.visualize(topological_network, path_html="mapper_visualization_output.html")
+
+
+# Example(nba_clustering)
+![image](https://github.com/gogoj5896/TDA-Topological_data_analysis-/blob/master/image%26html/aa.png)

@@ -1,5 +1,8 @@
 # TDA-Topological_data_analysis-exercise
 
+<br />
+<br />
+
 # * Topological Data Analysis
 - 3_teamproject(nba clustering) 중 TDA를 알게 되어서 관련 논문 등을 찾아보고 연습
 - 관련블로그 : http://skyeong.net/154
@@ -19,6 +22,8 @@ http://www.nature.com/articles/srep01236
 아직은 개념을 명확하게 습득하지 못했지만, data 분석에 도입해보면서 부족한 공부를 메꿔가려고 함
 (위상수학 학부 때 들었지만 기억이 안나서 안타까운..)
 
+<br />
+<br />
 
 # * library 적용 순서
 
